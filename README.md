@@ -23,8 +23,11 @@ This model is stored as pickle and used in the WebApp.
 
 To run the WebApp follow the commands in *data/* 
 
+<a href="https://raw.githubusercontent.com/AshrafIb/Disaster-Response-Pipeline/master/2020-04-27%2018_49_06-Disasters.png" target="_blank">Screenshot 1</a>
+
 The first Screenshot shows the Main-Page of the App with two distributional plots. 
 
+<a href="https://raw.githubusercontent.com/AshrafIb/Disaster-Response-Pipeline/master/2020-04-27%2018_52_26-Disasters.png" target="_blank">Screenshot 2</a>
 
 The Second screenshot shows the results for new Text. 
 
